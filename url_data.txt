@@ -1,0 +1,12 @@
+https://www.autotrader.co.uk/car-search?search-target=usedcars&radius=&onesearchad=Used&onesearchad=Nearly%20New&onesearchad=New
+&make=MAZDA
+&model=MX-5
+&price-from=
+&price-to=
+&year-from=
+&maximum-mileage=
+&fuel-type=
+&maximum-badge-engine-size=
+&transmission=
+&postcode=ec1n7ub
+#tst
