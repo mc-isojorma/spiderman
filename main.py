@@ -26,8 +26,3 @@ print(url)
 r = requests.request('GET', url, verify=False)
 
 print(r.text)
-#add header
-#headers={'x-auth-token': '6e217b67987548fab963f0aad73497ef'}
-
-#make the http GET request
-#r = requests.request('GET', url, headers=headers, verify=False)
